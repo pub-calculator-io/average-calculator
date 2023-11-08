@@ -12,9 +12,8 @@ The average calculator helps find a data set's average or arithmetic mean. It al
 3. Activate the [Average Calculator](https://www.calculator.io/average-calculator/ "Average Calculator Homepage") plugin through the "Plugins" menu in WordPress.
 
 ## Usage
-* Add the shortcode `[ci_average_calculator]` to your page or post and configure default mortgage parameters.
-* If you are using widgets, just add the Average Calculator to the sidebar through the `Appearance -> Widgets -> Average Calculator` menu in WordPress.
-* Add the following code: `<?php display_ci_average_calculator(); ?>` to your template where you would like the Average Calculator to appear.
+* Add the shortcode `[ci_average_calculator]` to your page, post or sidebar.
+* Or add the following code: `<?php display_ci_average_calculator(); ?>` to your template where you would like the Average Calculator to appear.
 
 ## Libraries in Use
 1. https://mathjs.org/
