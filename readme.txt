@@ -13,6 +13,8 @@ The average calculator helps find a data set's average or arithmetic mean. It al
 
 The average calculator helps find a data set's average or arithmetic mean. It also shows the calculation steps and other important statistics.
 
+[Average Calculator Homepage](https://www.calculator.io/average-calculator/ "Average Calculator Homepage")
+
 __Shortcode__
 
 Use the Average Calculator shortcode:
