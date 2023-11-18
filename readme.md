@@ -1,4 +1,4 @@
-# Average Calculator WordPress Widget by [Calculator.iO](https://www.calculator.io/ "Calculator.iO Homepage")
+# Average Calculator Widget for WordPress
 
 The average calculator helps find a data set's average or arithmetic mean. It also shows the calculation steps and other important statistics.
 
