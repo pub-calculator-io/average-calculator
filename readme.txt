@@ -1,4 +1,4 @@
-=== Average Calculator ===
+=== Average Calculator by www.calculator.io ===
 Contributors: calculatorio
 Tags: average calculator, mean value tool, calculate average number, find average online, statistical average computation, arithmetic mean calculator, average of numbers tool, dataset average calculator, central tendency calculator, calculate mean value
 Requires at least: 5.0

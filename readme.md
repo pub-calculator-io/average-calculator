@@ -7,7 +7,7 @@ The average calculator helps find a data set's average or arithmetic mean. It al
 
 ## Installation
 
-1. [Download](https://github.com/pub-calculator-io/age-calculator/archive/refs/heads/master.zip) the ZIP file of this repository.
+1. [Download](https://github.com/pub-calculator-io/average-calculator/archive/refs/heads/master.zip) the ZIP file of this repository.
 2. Upload the /average-calculator-master/ folder to the /wp-content/plugins/ directory.
 3. Activate the [Average Calculator](https://www.calculator.io/average-calculator/ "Average Calculator Homepage") plugin through the "Plugins" menu in WordPress.
 
