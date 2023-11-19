@@ -1,6 +1,6 @@
 <?php
 /*
-Plugin Name: Average Calculator by www.calculator.io
+Plugin Name: CI Average calculator
 Plugin URI: https://www.calculator.io/average-calculator/
 Description: The average calculator helps find a data set's average or arithmetic mean. It also shows the calculation steps and other important statistics.
 Version: 1.0.0
