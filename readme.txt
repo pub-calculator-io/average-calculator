@@ -24,7 +24,6 @@ Add the following code to your template where you would like the Average Calcula
 == Screenshots ==
 
 1. The Average Calculator Input Form.
-2. The Average Calculator Calculation Results.
 
 == Installation ==
 

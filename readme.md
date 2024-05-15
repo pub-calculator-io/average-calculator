@@ -3,7 +3,6 @@
 The average calculator helps find a data set's average or arithmetic mean. It also shows the calculation steps and other important statistics.
 
 ![Average Calculator Input Form](/assets/images/screenshot-1.png "Average Calculator Input Form")
-![Average Calculator Calculation Results](/assets/images/screenshot-2.png "Average Calculator Calculation Results")
 
 ## Installation
 
